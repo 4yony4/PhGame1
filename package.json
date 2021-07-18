@@ -1,0 +1,27 @@
+{
+  "name": "phgame1",
+  "version": "1.0.0",
+  "description": "PhaserGame1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4yony4/PhGame1.git"
+  },
+  "author": "Yony Bar-Magen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4yony4/PhGame1/issues"
+  },
+  "homepage": "https://github.com/4yony4/PhGame1#readme",
+  "devDependencies": {
+    "webpack": "^5.45.1",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "phaser": "^3.55.2"
+  }
+}
